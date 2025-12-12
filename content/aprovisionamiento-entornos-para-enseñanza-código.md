@@ -6,7 +6,7 @@ authors: ["alesanchezr"]
 
 ---
 
-Configurar la base de código inicial de un proyecto es uno de los mayores obstáculos para programar. Los principiantes, y a veces incluso los programadores senior, luchan por configurar todas las herramientas, plantillas, lenguajes y entornos necesarios para empezar a programar. También existe una abrumadora cantidad de plantillas iniciales y tendencias muy diferentes o corrientes de pensamiento sobre las mejores prácticas. Por estas y otras razones, desde el primer día, 4Geeks ha hecho un esfuerzo considerable para desarrollar las herramientas necesarias para eliminar esta fricción de los estudiantes.
+Configurar la base de código inicial de un proyecto es uno de los mayores obstáculos para programar. Los principiantes, y a veces incluso los programadores sénior, luchan por configurar todas las herramientas, plantillas, lenguajes y entornos necesarios para empezar a programar. También existe una abrumadora cantidad de plantillas iniciales y tendencias muy diferentes o corrientes de pensamiento sobre las mejores prácticas. Por estas y otras razones, desde el primer día, 4Geeks ha hecho un esfuerzo considerable para desarrollar las herramientas necesarias para eliminar esta fricción de los estudiantes.
 
 En este artículo, explicaremos en detalle la propuesta de 4Geeks.com para la provisión de entornos relacionados con la programación para el aprendizaje.
 
@@ -16,13 +16,13 @@ Debemos proporcionar de inmediato un nuevo entorno de programación para los est
 
 - El contenedor: la computadora.
 - El repositorio de plantillas: los archivos iniciales.
-- Learnpack: Motor de tutoriales interactivos.
+- Learnpack: el motor de tutoriales interactivos.
 
 ### El contenedor
 
 Piensa en el contenedor como una computadora con todo lo que el estudiante necesita para programar: los lenguajes ya instalados, los servidores y bases de datos, el editor VSCode, complementos, etc. Trabajamos con GitHub Codespaces o Gitpod como proveedores de contenedores, pero ambos utilizan Kubernetes y Docker para orquestar las computadoras de los estudiantes.
 
-No requerimos el uso de los contenedores de programación de la academia, pero lo recomendamos fuertemente. Sin embargo, por supuesto, los estudiantes siempre pueden utilizar sus computadoras locales en su lugar.
+No requerimos el uso de los contenedores de programación de la academia, pero lo recomendamos encafrecidamente. Sin embargo, por supuesto, los estudiantes siempre pueden utilizar sus computadoras locales en su lugar.
 
 ### El Repositorio de Plantillas
 
